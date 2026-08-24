@@ -13,11 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/chullikattu-rohit/Leet/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/chullikattu-rohit/Leet/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/chullikattu-rohit/Leet/tree/master/0143-reorder-list) |
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/chullikattu-rohit/Leet/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/chullikattu-rohit/Leet/tree/master/0143-reorder-list) |
 ## Recursion
 |  |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/chullikattu-rohit/Leet/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/chullikattu-rohit/Leet/tree/master/0042-trapping-rain-water) |
 ## Backtracking
 |  |
 | ------- |
@@ -40,8 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/chullikattu-rohit/Leet/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/chullikattu-rohit/Leet/tree/master/0042-trapping-rain-water) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/chullikattu-rohit/Leet/tree/master/0022-generate-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/chullikattu-rohit/Leet/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
