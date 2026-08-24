@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/chullikattu-rohit/Leet/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/chullikattu-rohit/Leet/tree/master/0143-reorder-list) |
+| [0232-implement-queue-using-stacks](https://github.com/chullikattu-rohit/Leet/tree/master/0232-implement-queue-using-stacks) |
 ## Recursion
 |  |
 | ------- |
@@ -63,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/chullikattu-rohit/Leet/tree/master/0054-spiral-matrix) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/chullikattu-rohit/Leet/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/chullikattu-rohit/Leet/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
