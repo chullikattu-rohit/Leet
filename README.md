@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/chullikattu-rohit/Leet/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/chullikattu-rohit/Leet/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/chullikattu-rohit/Leet/tree/master/0054-spiral-matrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -54,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/chullikattu-rohit/Leet/tree/master/0042-trapping-rain-water) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/chullikattu-rohit/Leet/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/chullikattu-rohit/Leet/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
