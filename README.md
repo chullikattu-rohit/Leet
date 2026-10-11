@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/chullikattu-rohit/Leet/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/chullikattu-rohit/Leet/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/chullikattu-rohit/Leet/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/chullikattu-rohit/Leet/tree/master/0143-reorder-list) |
@@ -44,10 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/chullikattu-rohit/Leet/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/chullikattu-rohit/Leet/tree/master/0022-generate-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/chullikattu-rohit/Leet/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/chullikattu-rohit/Leet/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/chullikattu-rohit/Leet/tree/master/0042-trapping-rain-water) |
 ## Bracket Sequences
@@ -86,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/chullikattu-rohit/Leet/tree/master/0004-median-of-two-sorted-arrays) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/chullikattu-rohit/Leet/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
