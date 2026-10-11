@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/chullikattu-rohit/Leet/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/chullikattu-rohit/Leet/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/chullikattu-rohit/Leet/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/chullikattu-rohit/Leet/tree/master/0054-spiral-matrix) |
@@ -77,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/chullikattu-rohit/Leet/tree/master/2778-sum-of-squares-of-special-elements) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/chullikattu-rohit/Leet/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/chullikattu-rohit/Leet/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
