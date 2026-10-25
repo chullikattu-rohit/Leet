@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/chullikattu-rohit/Leet/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/chullikattu-rohit/Leet/tree/master/0006-zigzag-conversion) |
 | [0022-generate-parentheses](https://github.com/chullikattu-rohit/Leet/tree/master/0022-generate-parentheses) |
 ## Dynamic Programming
 |  |
